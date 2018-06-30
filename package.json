@@ -22,12 +22,11 @@
     "formatting",
     "format",
     "vuejs",
-    "EUR",
-    "USD",
-    "mny",
+    "eur",
+    "usd",
     "vue-money-format",
-    "Ruby",
-    "Rails"
+    "ruby",
+    "rails"
   ], 
   "homepage": "https://github.com/egomolka/vue-money-format",
   "bugs": {
@@ -46,7 +45,6 @@
       "node": true
     },
     "extends": [
-      "plugin:vue/essential",
       "eslint:recommended"
     ],
     "rules": {},
