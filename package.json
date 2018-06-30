@@ -1,6 +1,6 @@
 {
   "name": "vue-money-format",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "main": "src/main.js",
   "repository": {
@@ -13,9 +13,8 @@
   },
   "author": "Ed Gomolka",
   "license": "MIT",
-  "dependencies": {
-  },
- "keywords": [
+  "dependencies": {},
+  "keywords": [
     "vue",
     "money",
     "currency",
@@ -27,7 +26,7 @@
     "vue-money-format",
     "ruby",
     "rails"
-  ], 
+  ],
   "homepage": "https://github.com/egomolka/vue-money-format",
   "bugs": {
     "url": "https://github.com/egomolka/vue-money-format/issues"
