@@ -1,14 +1,17 @@
 {
   "name": "vue-money-format",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
+  "private": false,
   "main": "src/main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egomolka/vue-money-format.git"
+  },
   "scripts": {
-    "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
- "author": "Ed Gomolka",
+  "author": "Ed Gomolka",
   "license": "MIT",
   "dependencies": {
   },
@@ -25,8 +28,12 @@
     "vue-money-format",
     "Ruby",
     "Rails"
-  ],  
-    "devDependencies": {
+  ], 
+  "homepage": "https://github.com/egomolka/vue-money-format",
+  "bugs": {
+    "url": "https://github.com/egomolka/vue-money-format/issues"
+  },
+  "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.0-beta.15",
     "@vue/cli-plugin-eslint": "^3.0.0-beta.15",
     "@vue/cli-service": "^3.0.0-beta.15",

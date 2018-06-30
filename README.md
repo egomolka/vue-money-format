@@ -65,3 +65,8 @@ yarn add vue-money-format
 - Money gem: https://github.com/Rubymoney/money
 - How to handle money and currency conversions: http://www.yacoset.com/how-to-handle-currency-conversions
 
+### License
+
+Copyright (c) 2018 [Ed Gomolka](https://github.com/egomolka). Released under the [MIT license](https://github.com/egomolka/vue-money-format/blob/master/LICENSE).
+MIT
+
