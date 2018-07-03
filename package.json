@@ -16,11 +16,11 @@
   "dependencies": {},
   "keywords": [
     "vue",
+    "vuejs",
     "money",
     "currency",
     "formatting",
     "format",
-    "vuejs",
     "i18n",
     "eur",
     "usd",
