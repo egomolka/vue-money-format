@@ -1,8 +1,3 @@
-<!--
- Format currency based on ISO 4217 currency codes:
-  https://www.iso.org/iso-4217-currency-codes.html
-  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NumberFormat
--->
 <template>
   <div id=money_format style="text-align:right;">
     {{formatMoney(value, locale, currencyCode, subunitsValue, hideSubunits)}}

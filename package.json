@@ -13,7 +13,6 @@
   },
   "author": "Ed Gomolka",
   "license": "MIT",
-  "dependencies": {},
   "keywords": [
     "vue",
     "vuejs",
@@ -32,11 +31,13 @@
   "bugs": {
     "url": "https://github.com/egomolka/vue-money-format/issues"
   },
+  "dependencies": {
+    "vue": "^2.5.16"
+    },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.0-beta.15",
     "@vue/cli-plugin-eslint": "^3.0.0-beta.15",
     "@vue/cli-service": "^3.0.0-beta.15",
-    "vue": "^2.5.16",
     "vue-template-compiler": "^2.5.16"
   },
   "eslintConfig": {
