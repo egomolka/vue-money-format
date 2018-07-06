@@ -7,7 +7,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 
 ## Description
 
-This is a lightweight display component for localized currency display. It has no dependencies. 
+This is a lightweight display component for localized currency display. It has no dependencies other than Vue. 
 It supports both float and integer input, and can adjust for values stored as decimal-based subunits, such as cents, dirham, groszy, etc. 
 Storing currency values in terms of the subunit allows you to store integers, rather than floating numbers, which ensures accuracy. 
 
