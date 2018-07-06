@@ -1,6 +1,6 @@
 {
   "name": "vue-money-format",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": false,
   "main": "src/main.js",
   "repository": {
@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "vue": "^2.5.16"
-    },
+  },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.0-beta.15",
     "@vue/cli-plugin-eslint": "^3.0.0-beta.15",
