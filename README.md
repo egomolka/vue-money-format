@@ -66,7 +66,9 @@ yarn add vue-money-format
 - locale: Language and country information, such as 'en' or 'en-US'. Defaults to 'en'
 - currency-code: ISO 4217 3-character alpha code in upper or lower case. Defaults to 'USD'
 - subunits-value: Set to true if value is denominated in subunits, such as cents. Defaults to false
-- hide-subunits: Do not display the subunits. Defaults to false
+- subunits-to-units: Set this only if you need to deviate from the minor unit value provided by ISO 4217. If you set this, the subunits-value option will be ignored.
+- hide-subunits: Do not display the subunits. Defaults to false. If you set this to true, the supplemental-precision option will be ignored.
+- supplemental-precision: Add extra precision digits beyond what is specified in ISO 4217. For example, a value of $2.2716 will normally be displaced as $2.27. If you set supplemental-precision to 1, it will be displayed as $2.272.
 
 
 ## References
