@@ -43,11 +43,11 @@ yarn add vue-money-format
 </template>
 
 <script>
-  import {MoneyFormat} from 'v-money-format'
+  import MoneyFormat from 'vue-money-format'
 
   export default {
     components: {
-    money-format: MoneyFormat
+    'money-format': MoneyFormat
     },
 
     data () {

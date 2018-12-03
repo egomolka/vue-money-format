@@ -1,5 +1,5 @@
 <template>
-  <div id=money_format style="text-align:right;">
+  <div class=money_format>
     {{formatMoney(value, locale, currencyCode, 
       subunitsValue,
       subunitsToUnit,
@@ -34,7 +34,7 @@
       hideSubunits: {
         type: Boolean,
         default: false
-      },
+      }
     },
     methods: {
       /////////////////////////////////////////////////////////////////////
