@@ -9,6 +9,7 @@
 </template>
 <script>
   export default {
+    name: 'MoneyFormat',
     props: {
       value: Number,
       locale: {
