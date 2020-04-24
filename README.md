@@ -36,7 +36,7 @@ yarn add vue-money-format
     <money-format :value="cost" 
       :locale='en' 
       :currency-code='USD' 
-      :subunit-value=true 
+      :subunits-value=true 
       :hide-subunits=true>
     </money-format>
   </div>
