@@ -70,6 +70,12 @@ yarn add vue-money-format
 - hide-subunits: Do not display the subunits. Defaults to false. If you set this to true, the supplemental-precision option will be ignored.
 - supplemental-precision: Add extra precision digits beyond what is specified in ISO 4217. For example, a value of $2.2716 will normally be displaced as $2.27. If you set supplemental-precision to 1, it will be displayed as $2.272.
 
+## Changelog
+
+Changes for the current version:
+
+- Fixed a typo in the usage instructions
+- Upgraded Lodash
 
 ## References
 
