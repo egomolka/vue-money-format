@@ -88,6 +88,6 @@ Changes for the current version:
 
 ## License
 
-Copyright (c) 2018 [Ed Gomolka](https://github.com/egomolka). Released under the [MIT license](https://github.com/egomolka/vue-money-format/blob/master/LICENSE).
+Copyright (c) 2018-2020 [Ed Gomolka](https://github.com/egomolka). Released under the [MIT license](https://github.com/egomolka/vue-money-format/blob/master/LICENSE).
 MIT
 
