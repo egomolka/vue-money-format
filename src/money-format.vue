@@ -1,11 +1,11 @@
 <template>
-  <div class=money_format>
+  <span class=money_format>
     {{formatMoney(value, locale, currencyCode, 
       subunitsValue,
       subunitsToUnit,
       hideSubunits,
       supplementalPrecision)}}
-  </div>
+  </span>
 </template>
 <script>
   export default {
